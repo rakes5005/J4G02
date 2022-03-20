@@ -1,0 +1,10 @@
+package pointer;
+
+public class pointer {
+
+	public static void main(String[] args) {
+		System.out.println("Hello world");
+
+	}
+
+}
